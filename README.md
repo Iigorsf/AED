@@ -1,2 +1,2 @@
 # AED
- Atividades da matéria feitos na faculdade
+ Atividades da matéria realizada durante  o curso 
